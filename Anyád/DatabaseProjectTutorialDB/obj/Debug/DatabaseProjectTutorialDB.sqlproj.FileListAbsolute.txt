@@ -1,0 +1,10 @@
+d:\Selester\TEST\SQL-tests\ADS-SQL_TutorialDB\Anyád\DatabaseProjectTutorialDB\bin\Debug\DatabaseProjectTutorialDB.dacpac
+d:\Selester\TEST\SQL-tests\ADS-SQL_TutorialDB\Anyád\DatabaseProjectTutorialDB\bin\Debug\DatabaseProjectTutorialDB.dll
+d:\Selester\TEST\SQL-tests\ADS-SQL_TutorialDB\Anyád\DatabaseProjectTutorialDB\bin\Debug\DatabaseProjectTutorialDB.pdb
+d:\Selester\TEST\SQL-tests\ADS-SQL_TutorialDB\Anyád\DatabaseProjectTutorialDB\obj\Debug\DatabaseProjectTutorialDB.sqlproj.AssemblyReference.cache
+d:\Selester\TEST\SQL-tests\ADS-SQL_TutorialDB\Anyád\DatabaseProjectTutorialDB\obj\Debug\Model.xml
+d:\Selester\TEST\SQL-tests\ADS-SQL_TutorialDB\Anyád\DatabaseProjectTutorialDB\obj\Debug\refactor.xml
+d:\Selester\TEST\SQL-tests\ADS-SQL_TutorialDB\Anyád\DatabaseProjectTutorialDB\obj\Debug\postdeploy.sql
+d:\Selester\TEST\SQL-tests\ADS-SQL_TutorialDB\Anyád\DatabaseProjectTutorialDB\obj\Debug\predeploy.sql
+d:\Selester\TEST\SQL-tests\ADS-SQL_TutorialDB\Anyád\DatabaseProjectTutorialDB\obj\Debug\DatabaseProjectTutorialDB.dll
+d:\Selester\TEST\SQL-tests\ADS-SQL_TutorialDB\Anyád\DatabaseProjectTutorialDB\obj\Debug\DatabaseProjectTutorialDB.pdb
